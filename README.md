@@ -1,0 +1,2 @@
+This repository contains the experimental code, results, and visualizations for the research project “Addressing Neural Network Training Challenges through Optimizers and Activation Functions.”
+The study evaluates how various activation functions and optimizers influence training stability, convergence speed, gradient flow, and overall model performance using a SimpleCNN architecture on the MNIST dataset.
